@@ -13,3 +13,4 @@
 4. Also Found sum of  sales performance by each state and YTD sales for market.
 5. Showed sum of sales by year, quarter, month and day
 
+![Screenshot 2024-02-27 172536](https://github.com/Chetan0904/Coffee-Chain-Sales-Dashboard-using-Power-BI/assets/137276849/37e29b6b-1e99-4f20-b8a7-de007624d6ed)
