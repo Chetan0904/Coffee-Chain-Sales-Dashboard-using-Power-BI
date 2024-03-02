@@ -1,5 +1,4 @@
 # Coffee-Chain-Sales-Dashboard-using-Power-BI
-Fully dynamic and interactive ecommerce dashboard operated with slicers and filters
 📌 Project title: "Coffee Chain Sales Dashboard"
 
 🛠 Tools used:
